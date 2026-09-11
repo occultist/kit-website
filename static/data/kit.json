@@ -1,7 +1,7 @@
 {
   "version": "dev-1.0",
-  "commit": "e5e38a16ebf734299ea35d7b3971473e92afb039",
-  "updatedAt": "2026-09-11T03:12:19Z",
+  "commit": "31b50f9f433d02dbec66ed9d9bebd7229dda5eb2",
+  "updatedAt": "2026-09-11T03:32:28Z",
   "binaries": {
     "windows": { "url": "https://pub-98ee77ce79984c2cad0dc1c300901158.r2.dev/data/windows/kit.exe" },
     "linux":   { "url": "https://pub-98ee77ce79984c2cad0dc1c300901158.r2.dev/data/linux/kit" },

@@ -3,6 +3,7 @@ const sidebars = {
   tutorialSidebar: [
     'intro',
     'features',
+    'registry',
     'more',
   ],
 };
