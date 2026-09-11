@@ -3,6 +3,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import DownloadSection from '@site/src/components/DownloadSection';
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
@@ -33,10 +34,11 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="手边的开发运维工具">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <DownloadSection />
       </main>
     </Layout>
   );
